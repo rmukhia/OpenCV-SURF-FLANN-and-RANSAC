@@ -1,3 +1,7 @@
+/*
+ * This file is derived and uses code from 
+ * https://gist.github.com/derofim/d3539ba2c4e1a7fb113bc9ec05348e0b
+ */ 
 #include "opencv2/core.hpp"
 #include "opencv2/features2d.hpp"
 #include "opencv2/highgui.hpp"
